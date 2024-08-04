@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlchemistsUnderling:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlchemistsUnderling_jar</output-path>
+    <root id="archive" name="AlchemistsUnderling.jar">
+      <element id="module-output" name="AlchemistsUnderling" />
+      <element id="module-test-output" name="AlchemistsUnderling" />
+    </root>
+  </artifact>
+</component>
